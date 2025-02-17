@@ -7,7 +7,7 @@
 
 # MultiOCR-QA: Evaluating Robustness of LLMs in Question Answering on Multilingual OCR Texts
 
-<img src="images/TempAmbiguousFramework1.png">
+<img src="Images/MultiOCR-QA_pipeline.png">
 
 ## 🗃️Dataset
 
