@@ -11,6 +11,16 @@
 
 ## 🗃️Dataset
 
+### Dataset Statistics
+|                                   | English | French   | German |
+| --------------------------------  | --------| ---------| ------ |
+|            #QA pairs              | 10,875  | 10,004   | 39,200 | 
+|           #Paragraphs             | 6,525   | 1,670    | 9,075  |
+| Average paragraph length (words)  | 219.09  | 297.53   | 212.86 | 
+| Average question length (words)   | 10.98   | 8.73     | 8.08   |
+| Average answer length (words)     | 2.05    | 3.12     | 5.63   |
+| Average questions per paragraph   | 1.67    | 5.99     | 4.32   |
+
 ## 🪪License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
