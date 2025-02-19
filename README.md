@@ -41,6 +41,12 @@ MultiOCR, **a multilingual QA** dataset designed to assess the impact of OCR err
     ]
 }
 ```
+
+- **English QA**: [Download](https://huggingface.co/datasets/Bhawna/MultiOCR-QA/resolve/main/English.json?download=true)
+- **French QA**: [Download](https://huggingface.co/datasets/Bhawna/MultiOCR-QA/resolve/main/French.json?download=true)
+- **German QA**: [Download](https://huggingface.co/datasets/Bhawna/MultiOCR-QA/resolve/main/German.json?download=true)
+
+
 ## 🪪License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
