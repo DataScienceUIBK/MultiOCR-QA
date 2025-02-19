@@ -26,7 +26,7 @@ MultiOCR **a multilingual QA** dataset designed to assess the impact of OCR erro
 
 
 
-- **Data Structure**: 
+**Data Structure**: 
 ```json
 [
     {
