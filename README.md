@@ -28,21 +28,18 @@ MultiOCR, **a multilingual QA** dataset designed to assess the impact of OCR err
 
 **Data Structure**: 
 ```json
-[
-    {
-        "document_id": "",
-        "rawOCR_text": "",
-        "CorecctedOCR_text": "",
-        "QA_pairs": [
-                        {
-                            "q_id": "",
-                            "question": "",
-                            "answer": ""
-                        }
-                    ]
-    }
-]
-
+{
+    "document_id": "",
+    "rawOCR_text": "",
+    "correctedOCR_text": "",
+    "QA_pairs": [
+        {
+            "q_id": "",
+            "question": "",
+            "answer": ""
+        }
+    ]
+}
 ```
 ## 🪪License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
