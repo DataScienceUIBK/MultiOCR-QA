@@ -9,6 +9,9 @@
 
 <img src="Images/MultiOCR-QA_pipeline.png">
 
+MultiOCR **a multilingual QA** dataset designed to assess the impact of OCR errors on QA systems across English, French, and German. Our dataset, derived from centuries-old documents, provides a unique evaluation of OCR-induced challenges in real-world applications.
+
+
 ## 🗃️Dataset
 
 ### Dataset Statistics
