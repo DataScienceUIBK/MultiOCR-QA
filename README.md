@@ -24,6 +24,26 @@ MultiOCR **a multilingual QA** dataset designed to assess the impact of OCR erro
 | Average answer length (words)     | 2.05    | 3.12     | 5.63   |
 | Average questions per paragraph   | 1.67    | 5.99     | 4.32   |
 
+
+
+- **Data Structure**: 
+```json
+[
+    {
+        "document_id": "",
+        "rawOCR_text": "",
+        "CorecctedOCR_text": "",
+        "QA_pairs": [
+                        {
+                            "q_id": "",
+                            "question": "",
+                            "answer": ""
+                        }
+                    ]
+    }
+]
+
+```
 ## 🪪License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
