@@ -51,7 +51,7 @@ MultiOCR, **a multilingual QA** dataset designed to assess the impact of OCR err
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## ✨Citation
-If you find this work useful, please cite [📜our paper]():
+If you find this work useful, please cite [📜our paper](https://arxiv.org/pdf/2502.16781v1):
 ### Plain
 
 ### Bibtex
