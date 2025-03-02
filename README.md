@@ -53,9 +53,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## ✨Citation
 If you find this work useful, please cite [📜our paper](https://arxiv.org/pdf/2502.16781v1):
 ### Plain
-
+Piryani, B., Mozafari, J., Abdallah, A., Doucet, A., & Jatowt, A. (2025). MultiOCR-QA: Dataset for Evaluating Robustness of LLMs in Question Answering on Multilingual OCR Texts. arXiv preprint arXiv:2502.16781
 ### Bibtex
 ```bibtex
+@article{piryani2025multiocr,
+  title={MultiOCR-QA: Dataset for Evaluating Robustness of LLMs in Question Answering on Multilingual OCR Texts},
+  author={Piryani, Bhawna and Mozafari, Jamshid and Abdallah, Abdelrahman and Doucet, Antoine and Jatowt, Adam},
+  journal={arXiv preprint arXiv:2502.16781},
+  year={2025}
+}
 
 ```
 
