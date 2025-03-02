@@ -1,6 +1,6 @@
 
 <span align="center">
-    <a href=""><img alt="Huggingface" src="https://img.shields.io/static/v1?label=Datasets&message=MultiOCR-QA&logo=data"/></a>
+    <a href="https://huggingface.co/datasets/Bhawna/MultiOCR-QA/tree/main"><img alt="Huggingface" src="https://img.shields.io/static/v1?label=Datasets&message=MultiOCR-QA&logo=data"/></a>
 </span>
 <a href="https://arxiv.org/pdf/2502.16781v1"><img src="https://img.shields.io/static/v1?label=Paper&message=ArXiv&color=green&logo=arXiv"></a>
 <a href=""><img src="https://img.shields.io/static/v1?label=License&message=MIT&color=red"></a>
