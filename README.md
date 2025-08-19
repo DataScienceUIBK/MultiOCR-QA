@@ -14,7 +14,7 @@
 ## 🗂 Overview
 
 ### **📌 Key Statistics**
-- **50,000** QA pairs across **English, French, German.**.  
+- **50,079** QA pairs across **English, French, German.**.  
 - Derived from **centuries-old historical documents** (via ICDAR 2019 dataset)
 - Each sample includes both **RawOCR** and **CorrectedOCR** contexts.
 
