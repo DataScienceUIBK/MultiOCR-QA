@@ -97,7 +97,7 @@ The dataset is available on [HuggingFace](https://huggingface.co/datasets/Bhawna
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## ✨Citation
-If you find this work useful, please cite [📜our paper](https://arxiv.org/pdf/2502.16781v1):
+If you find this work useful, please cite [📜our paper](https://arxiv.org/pdf/2502.16781):
 ### Plain
 Piryani, B., Mozafari, J., Abdallah, A., Doucet, A., & Jatowt, A. (2025). Evaluating Robustness of LLMs in Question Answering on Multilingual Noisy OCR Data. arXiv preprint arXiv:2502.16781
 ### Bibtex
